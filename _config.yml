@@ -3,11 +3,11 @@ title: WANGPEI's Blog
 SEOTitle: 王沛的博客 | WANGPEI's Blog
 header-img: img/post-bg-desk.jpg
 email: 暂无
-description: "（网站介绍）这是王沛的个人网站，目前处于测试状态，欢迎大家访问，一起交流学习."
-keyword: "WP,WANGPEI,王沛，王沛的博客"
-url: "http://xiaokeai18.github.io"          # your host, for absolute URL
+description: "（网站介绍）这是mfxiaosheng的个人网站，目前处于测试状态，欢迎大家访问，一起交流学习."
+keyword: "mfxiaosheng的博客"
+url: "http://mfxiaosheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Xiaokeai18/Xiaokeai18.github.io.git" # you code repository
+github_repo: "https://github.com/mfxiaosheng/mfxiaosheng.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,8 +19,8 @@ sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's use
 # SNS settings
 RSS: false
 # weibo_username:     暂无
-zhihu_username:     小可爱
-github_username:    xiaokeai18
+zhihu_username:     mfxiaosheng
+github_username:    mfxiaosheng
 facebook_username:  暂无
 jianshu_username:   暂无
 #twitter_username:   暂无
@@ -67,9 +67,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6cbaa4389d74519e2e52                            #生成的clientID
   clientSecret: 9ad60699b9b111d887b1510d34418901ca1a0db2    #生成的clientSecret
-  repo: xiaokeai18.github.io    #仓库名称
-  owner: xiaokeai18    #github用户名
-  admin: xiaokeai18
+  repo: mfxiaosheng.github.io    #仓库名称
+  owner: mfxiaosheng    #github用户名
+  admin: mfxiaosheng
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
